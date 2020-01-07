@@ -1,2 +1,2 @@
 # git-learn
-commands
+tutorial
